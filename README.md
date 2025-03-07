@@ -28,6 +28,7 @@
 
 ## 3	Mô tả  các chức năng chính của hệ thống
 ### 3.1. Chức Năng Đăng Ký
+https://github.com/dinhtai27/Codeweb/blob/master/Picture.png
 
 ### 3.2. Chức Năng Đăng Nhập
 
