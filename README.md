@@ -27,6 +27,8 @@
 - **Quản Lý Admin:** Dashboard quản trị để quản lý sản phẩm, danh mục và đơn hàng.
 
 ## 3	Mô tả  các chức năng chính của hệ thống
+USE CASE
+![Cấu trúc chức năng](https://github.com/quytoxxx/WebNC-N07/blob/master/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202025-02-28%20211846.png)
 ### 3.1. Chức Năng Đăng Ký
 ![Cấu trúc chức năng](https://github.com/dinhtai27/Codeweb/blob/master/Picture.png)
 
