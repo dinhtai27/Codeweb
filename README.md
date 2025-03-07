@@ -26,7 +26,7 @@
 - **Xác Thực Người Dùng:** Đăng ký, đăng nhập và quản lý tài khoản.
 - **Quản Lý Admin:** Dashboard quản trị để quản lý sản phẩm, danh mục và đơn hàng.
 
-## 3	Mô tả chi tiết các chức năng chính của hệ thống
+## 3	Mô tả  các chức năng chính của hệ thống
 ### 3.1. Chức Năng Đăng Ký
 
 ### 3.2. Chức Năng Đăng Nhập
