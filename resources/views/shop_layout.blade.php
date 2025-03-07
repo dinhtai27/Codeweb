@@ -552,7 +552,7 @@
 
                     <!--Right Start-->
                     <div class="copyright-content">
-                        <p>Copyright 2023 &copy; <a href="https://hasthemes.com/">Nguyễn Thành Trùng</a> . All Rights Reserved</p>
+                        <p>Copyright 2025 &copy; <a href="https://hasthemes.com/">Nguyễn Đình Tài</a> . All Rights Reserved</p>
                     </div>
                     <!--Right End-->
 

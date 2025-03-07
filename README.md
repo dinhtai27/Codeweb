@@ -1,66 +1,40 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Ứng Dụng Thương Mại Điện Tử Bán Quần Áo
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Ứng dụng thương mại điện tử bán quần áo được xây dựng bằng Laravel . Dự án cung cấp giao diện thân thiện cho người dùng và hệ thống quản trị cho admin, bao gồm các chức năng cơ bản như xem sản phẩm, tìm kiếm, giỏ hàng, đặt hàng và quản lý sản phẩm, danh mục, đơn hàng.
 
-## About Laravel
+---
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## 1. Giới Thiệu
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+**Nguyễn Đình Tài**
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- **Mục tiêu:**  
+  Xây dựng một ứng dụng thương mại điện tử tối giản, trang web được thiết kế sẽ có các mục để giúp người dùng dễ tìm hiểu về các loại sản phẩm quần áo hiện đang có trên thị trường ngày nay cung cấp các thông tin đầy đủ của sản phẩm. Với nhiều ý tưởng phù hợp với mọi nhu cầu của khách hàng sẽ mang đến cho khách hàng những trải nghiệm tốt nhất về website.
+  
+- **Phạm vi:**  
+  - **Người dùng:** Truy cập trang chủ, xem danh sách sản phẩm, chi tiết sản phẩm, tìm kiếm sản phẩm, thêm giỏ hàng và đặt hàng.
+  - **Quản trị viên:** Quản lý sản phẩm , danh mục sản phẩm, đơn hàng và thống kê thông qua dashboard admin.
 
-## Learning Laravel
+   ---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## 2. Tính Năng Chính
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- **Trang Chủ:** Giới thiệu ứng dụng.
+- **Danh Sách & Chi Tiết Sản Phẩm:** Hiển thị danh sách sản phẩm và cho phép xem chi tiết từng sản phẩm.
+- **Tìm Kiếm Sản Phẩm:** Cho phép tìm kiếm sản phẩm theo từ khóa.
+- **Giỏ Hàng & Đặt Hàng:** Cho phép người dùng thêm sản phẩm vào giỏ, cập nhật và đặt hàng.
+- **Xác Thực Người Dùng:** Đăng ký, đăng nhập và quản lý tài khoản.
+- **Quản Lý Admin:** Dashboard quản trị để quản lý sản phẩm, danh mục và đơn hàng.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## 3	Mô tả chi tiết các chức năng chính của hệ thống
+### 3.1. Chức Năng Đăng Ký
 
-## Laravel Sponsors
+### 3.2. Chức Năng Đăng Nhập
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+### 3.3. Chức Năng Tìm Kiếm Sản Phẩm 
 
-### Premium Partners
+### 3.4. Chức Năng Giỏ Hàng 
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+### 3.5. Chức Năng Quản Lý Sản Phẩm
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### 3.6. Chức Năng Quản Lý Đơn Hàng
